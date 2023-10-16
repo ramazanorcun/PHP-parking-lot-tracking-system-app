@@ -1,7 +1,7 @@
 <?php 
-require_once 'inc/Navbar.php';
-require_once 'inc/AddCar.php';
-require_once 'inc/CarExit.php';
+require_once 'include/Navbar.php';
+require_once 'include/AddCar.php';
+require_once 'include/CarExit.php';
 
 
 //dosyanın içeriğini okur
