@@ -1,0 +1,34 @@
+[
+    {
+        "Sequence_no": 1,
+        "Plate": "dfgdgdfgd",
+        "Brand": "dfgdfgdfg",
+        "entry_time": "23:10",
+        "price": 0,
+        "exit_time": null
+    },
+    {
+        "Sequence_no": 2,
+        "Plate": "sdfsdfsd",
+        "Brand": "sdfsdfsdf",
+        "entry_time": "23:10",
+        "price": 0,
+        "exit_time": null
+    },
+    {
+        "Sequence_no": 3,
+        "Plate": "dfgdfg",
+        "Brand": "dfgdfg",
+        "entry_time": "23:10",
+        "price": 0,
+        "exit_time": null
+    },
+    {
+        "Sequence_no": 4,
+        "Plate": "1",
+        "Brand": "1",
+        "entry_time": "09:10",
+        "price": 0,
+        "exit_time": null
+    }
+]
